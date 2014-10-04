@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import subprocess
+import readline
 import sys  # so heavy, but apparently just putting "unicode" makes people cry
 
 # u+2588 is the full unicode block; 25A0 is a smaller square.
