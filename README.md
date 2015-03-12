@@ -1,4 +1,4 @@
-hexcolors
+Hexcolors
 =========
 
-Quick 'n dirty script for anyone who needs a terminal-based hex-color viewer (that barely works, and doesn't even pretend to follow "best practices").
+Type a hex code and watch as your terminal is lit up with exactly that color. Well, there's a few ASCII squares printed, anyway. Might be useful for webdev stuff.
